@@ -3,11 +3,10 @@
  * http://font.iropke.com/batang/
  */
 @font-face {
-  font-family: 'Iropke Batang';
-  font-style: normal;
-  font-weight: 400;
-  src: url(//cdn.jsdelivr.net/font-iropke-batang/1.2/IropkeBatangM.eot);
-  src: url(//cdn.jsdelivr.net/font-iropke-batang/1.2/IropkeBatangM.eot?#iefix) format('embedded-opentype'),
-       url(//cdn.jsdelivr.net/font-iropke-batang/1.2/IropkeBatangM.woff) format('woff'),
-       url(//cdn.jsdelivr.net/font-iropke-batang/1.2/IropkeBatangM.ttf) format('truetype');
+  font-family:'Iropke Batang';
+  font-style:normal;
+  font-weight:400;
+  src: url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.ttf') format('truetype');
 }
