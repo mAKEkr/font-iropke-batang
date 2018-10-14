@@ -6,7 +6,7 @@
   font-family:'Iropke Batang';
   font-style:normal;
   font-weight:400;
-  src: url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.woff2') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@master/IropkeBatangM.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@woff2/IropkeBatangM.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@woff2/IropkeBatangM.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/makekr/font-iropke-batang@woff2/IropkeBatangM.ttf') format('truetype');
 }
